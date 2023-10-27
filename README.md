@@ -15,25 +15,31 @@ Also requires an API Key for the following services, which can be obtained for f
 * OpenWeatherMap (for real-time weather info)
 
 ## Project Development Requirements
-
+<p>
 ✓ Build the application using React and Redux
 ✓ Version control your application with Git and host the repository on GitHub
 ✓ Write a README (using Markdown) that documents your project
+</p>
 
 ## Technologies Used
+<p>
 HTML
 CSS
 JavaScript, including requests to APIs
 React
 Redux
 Git and GitHub
+</p>
 
 ## Services Used
+<p>
 Unsplash (background images)
 ZenQuotes (quotes)
 OpenWeatherMap (weather)
+</p>
 
 ## Project Features
+<p>
 ✓ Users can check the current weather
 ✓ Users are shown an inspirational image
 ✓ Users can cycle through multiple fetched images
@@ -41,6 +47,7 @@ OpenWeatherMap (weather)
 ✓ Users can write down their goals
 ✓ Users can delete goals
 ✓ Users can mark goals as complete
+</p>
 
 ## Future Work
 * Automatically detect current location and query for weather
