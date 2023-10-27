@@ -1,0 +1,81 @@
+.About {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.3em;
+}
+
+.Location, .Date {
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    margin: 0 0;
+}
+
+.Temp-current {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 0;
+}
+
+.Temp {
+    font-size: 2em;
+    margin: 0 0;
+}
+
+.Icon {
+    width: 3em;
+    height: 3em;
+}
+
+.Description-label {
+    font-style: italic;
+    margin-top: 0.3em;
+    margin-bottom: 0;
+}
+
+.Description-box {
+    display: flex;
+    justify-content: center;
+}
+
+.Description {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin: 0 0;
+}
+
+.Temp-today {
+    display: flex;
+    justify-content: space-around;
+}
+
+.Box {
+    width: 3em;
+    height: 4.3em;
+    border: 1px solid white;
+    background-color: white;
+    padding: 3px 3px;
+    text-align: center;
+    border-radius: 10%;
+    opacity: 0.8;
+    margin: 0.5em 0.2em;
+}
+
+.Temp-label {
+    color: #111;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+.Temp-value {
+    color: #111;
+    font-size: 1.1em;
+}
+
+.Button-box {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,8 @@
+.Quote-display {
+    display: inline-flex;
+    align-items: center;
+}
+
+.Caption {
+    text-align: center;
+}

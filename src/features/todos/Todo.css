@@ -1,0 +1,29 @@
+.Todo {
+    border-radius: 6px;
+    padding: 1em;
+    min-width: 200px;
+    margin: 0.5em;
+    text-align: center;
+}
+
+.Todo-content {
+    font-weight: bold;
+    color: black;
+}
+
+button {
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+
+.Todo:has(> .Todo-completed) {
+    background-color: white;
+    opacity: 0.2;
+}
+
+.Todo:has(> .Todo-incomplete) {
+    background-color: white;
+    opacity: 0.8;
+}

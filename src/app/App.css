@@ -1,0 +1,23 @@
+* {
+    color: white;
+}
+
+.App {
+    margin: 0 0;
+    padding: 2em 2em;
+}
+
+.App-header {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.App-main {
+    display: flex;
+    justify-content: center;
+}
+
+.App-lower {
+    display: flex;
+    justify-content: center;
+}
