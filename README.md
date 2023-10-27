@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Description
 
-An application to interact with different APIs to display current weather, background iamge, and an inspirational quote. It also provides users with a space to write down their goals for the day. Something like a fancy to-do list with dynamic data.
+A learning exercise to learn React and Redux. The end goal is an application that can interact with different APIs to display current weather, background image, and an inspirational quote. It also provides users with a space to write down their goals for the day. Something like a fancy to-do list with dynamic data.
 
 ![Alt text](image-1.png)
 
